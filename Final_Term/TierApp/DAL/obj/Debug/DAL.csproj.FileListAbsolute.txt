@@ -1,0 +1,2 @@
+F:\C# Revision\.Net\Final_Term\TierApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\C# Revision\.Net\Final_Term\TierApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
